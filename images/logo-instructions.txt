@@ -1,0 +1,20 @@
+LOGO PLACEMENT INSTRUCTIONS
+============================
+
+Please save your company logo in this folder with the name:
+- logo.png (preferred)
+OR
+- logo.jpg
+
+The logo will be automatically displayed in:
+1. Navigation bar (top left)
+2. Hero section (center, above the title)
+3. Footer (top of footer section)
+
+Recommended logo specifications:
+- Format: PNG (with transparent background) or JPG
+- Size: 400x200 pixels or similar aspect ratio
+- File size: Under 200KB for fast loading
+- Background: Transparent PNG works best
+
+If the logo file is not found, the website will automatically show text-based branding instead.
